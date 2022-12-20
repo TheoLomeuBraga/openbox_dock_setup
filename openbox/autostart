@@ -1,0 +1,6 @@
+nitrogen --restore &
+xcompmgr -t5 -l5 -r4.2 -o.55 &
+cairo-dock &
+nm-applet &
+blueman-applet &
+pnmixer &
