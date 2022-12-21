@@ -17,7 +17,7 @@ sep_display=
 Name=APPs
 
 #S+[Default] Image's name or path:
-Icon=/home/theo/openbox_setup_leptop/themes/menu.png
+Icon=/usr/share/oprnbox_setup_leptop_theme/menu.png
 
 #s[Default] Command to launch on click:
 #{Example: nautilus --no-desktop, gedit, etc. You can even enter a shortkey, e.g. <Alt>F1, <Ctrl>c,  <Ctrl>v, etc}
@@ -43,7 +43,7 @@ Terminal=false
 ShowOnViewport=0
 
 #f[0;100] Order you want for this launcher among the others:
-Order=12.625
+Order=12.90625
 
 Icon Type=0
 Type=Application
